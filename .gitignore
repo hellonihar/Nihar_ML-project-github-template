@@ -1,16 +1,4 @@
-# Data
-data/raw/*
-data/processed/*
-*.csv
-*.xlsx
-*.json
 
-# Models
-models/*
-*.pkl
-*.h5
-*.pt
-*.pth
 
 # Python
 __pycache__/
